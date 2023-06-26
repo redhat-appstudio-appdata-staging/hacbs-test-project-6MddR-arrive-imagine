@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: hacbs-test-project-5cl0
     app.kubernetes.io/part-of: hacbs-test-project
-  name: hacbs-test-project-5cl0ekxs
+  name: hacbs-test-project-5cl0p8rg
 spec:
   port:
     targetPort: 8080
