@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: hacbs-test-project-5cl0
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
